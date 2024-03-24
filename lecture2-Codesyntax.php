@@ -18,7 +18,7 @@
     <?php
 
 echo"<h1>SYNTAX OF PHP</h1>";
-
+echo"<h1>SYNTAX OF PHP</h1>";
     ?>
 </body>
 
