@@ -2,7 +2,7 @@
 
 $emp = [
     [1, "MUNEEB HASSAN", "MANAGER", 5000000],
-    [2, "MALAIKAH MUNEEB", "v.MANAGER", 200000],
+    [2, "MUNEEB", "v.MANAGER", 200000],
     [3, "MARIA HASSAN", "ASSISTANT", 250000],
     [4, "AYSHA", "COMPUTER OPERATOR", 400000],
     [5, "ROHAN", "PS", 50000],
@@ -30,13 +30,13 @@ for ($i = 0; $i < $len; $i++) {
 $std_marks = [
 
     "MUNEEB" => ["physics" => 90, "Math" => 96, "English" => 57, "Islamiat" => 96, "OOP" => 96],
-    "MALAIKAH" => ["physics" => 90, "Math" => 86, "English" => 64, "Islamiat" => 89, "OOP" => 96],
+    "Known" => ["physics" => 90, "Math" => 86, "English" => 64, "Islamiat" => 89, "OOP" => 96],
     "MARIA" => ["physics" => 90, "Math" => 86, "English" => 56, "Islamiat" => 89, "OOP" => 46],
     "HASSAN" => ["physics" => 70, "Math" => 36, "English" => 37, "Islamiat" => 89, "OOP" => 46],
 ];
 
 #check specific colum value
-echo count($std_marks['MALAIKAH']);
+echo count($std_marks['known']);
 
 #check the same values and figure out the same values
 echo "<pre>";
@@ -46,7 +46,7 @@ echo "</pre>";
 $std_marks1 = [
 
     "MUNEEB" => ["physics" => 90, "Math" => 86, "English" => 57, "Islamiat" => 96, "OOP" => 96],
-    "MALAIKAH" => ["physics" => 90, "Math" => 86, "English" => 64, "Islamiat" => 89, "OOP" => 96],
+    "known" => ["physics" => 90, "Math" => 86, "English" => 64, "Islamiat" => 89, "OOP" => 96],
     "MARIA" => ["physics" => 90, "Math" => 86, "English" => 56, "Islamiat" => 89, "OOP" => 46],
     "HASSAN" => ["physics" => 70, "Math" => 36, "English" => 37, "Islamiat" => 89, "OOP" => 46],
 ];
