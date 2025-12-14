@@ -51,11 +51,11 @@ function myFunction($var, $key, $parm)
 echo '<ul><li><h2> 2) ARRAY_WALK_RECURSIVE FUNCTION</h2></li></ul>';
 
 $rollno = [
-    1 => 'MALAIKAH',
+    1 => 'MUNEEB',
     23 => 'MUNIB',
     1223 => 'HASSAN',
-    62 => 'HAISAM',
-    12 => 'AYAT',
+    62 => 'HASAN',
+    12 => 'GUL',
     734 => 'AIGUL',
     86 => 'SHAHREYAR'
 ];
