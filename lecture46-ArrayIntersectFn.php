@@ -4,7 +4,7 @@ echo "<h1>ARRAY INTERSECT FUNCTIONS</h1>";
 echo "<ul><li>
 <h2>array_Intersect Function</h2></li></ul>";
 
-$name = ['a' => 'MUNEEB', 'b' => 'HASSAN', 'c' => 'MALAIKAH', 'd' => 'BIAA', 'e' => 'MARIA'];
+$name = ['a' => 'MUNEEB', 'b' => 'HASSAN', 'c' => 'munib', 'd' => 'BIAA', 'e' => 'MARIA'];
 
 $name1 = ['a' => 'MUNEEB', 'g' => 'HUSAIN', 'c' => 'BIAA', 'i' => 'BIA', 'd' => 'RIA'];
 
