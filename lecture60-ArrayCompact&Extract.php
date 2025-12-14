@@ -7,7 +7,7 @@ echo "<ul><li><h2> 1)ARRAY EXTRACT FUNCTION</h2></li></ul>";
 
 // $a = 'city';
 // $b = 'vitz';
-$name = ['a' => 'MALAIKAH', 'b' => 'MUNIB', 'c' => 'HASSAN', 'd' => 'REHMAN',];
+$name = ['a' => 'ALI', 'b' => 'MUNIB', 'c' => 'HASSAN', 'd' => 'REHMAN',];
 
 //************************/
 extract($name, EXTR_SKIP);
