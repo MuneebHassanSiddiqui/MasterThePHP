@@ -12,7 +12,7 @@ $emp = [
     ],
     [
         "id" => 2002,
-        "name" => "MALAIKAH MUNEEB",
+        "name" => "MUNEEB",
         "salary" => 1500000,
     ],
     [
