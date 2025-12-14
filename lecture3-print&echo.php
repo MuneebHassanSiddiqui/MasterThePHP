@@ -10,7 +10,7 @@ echo ('MUNEEB HASSAN' . "<br>");
 
 #PHP PRINT STATEMENT
 print "MUNIB HASSAN";
-print "MALAIKAH MUNIB";
+print "MUNIB";
 print  98237943;
 print "<b>MUNIB HASSAN</b>";
 print('MUNEEB HASSAN');
