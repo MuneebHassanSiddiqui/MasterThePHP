@@ -53,7 +53,7 @@ echo "<ul><li><h2>SHUFFLE FUNCTION</h2>
 
 $emp = [
     [1, "MUNEEB HASSAN", "MANAGER", 5000000],
-    [2, "MALAIKAH MUNEEB", "v.MANAGER", 200000],
+    [2, "MUNEEB", "v.MANAGER", 200000],
     [3, "MARIA HASSAN", "ASSISTANT", 250000],
     [4, "AYSHA", "COMPUTER OPERATOR", 400000],
     [5, "ROHAN", "PS", 50000],
