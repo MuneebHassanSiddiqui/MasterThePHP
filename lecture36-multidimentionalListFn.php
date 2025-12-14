@@ -3,7 +3,7 @@ echo "<h1>MULTIDIMENSIONALL LIST() FUNCTION</h1>";
 #list function with INDEXED array 
 $emp = [
     [1, "MUNEEB HASSAN", "MANAGER", 5000000],
-    [2, "MALAIKAH MUNEEB", "v.MANAGER", 200000],
+    [2, "MUNEEB", "v.MANAGER", 200000],
     [3, "MARIA HASSAN", "ASSISTANT", 250000],
     [4, "AYSHA", "COMPUTER OPERATOR", 400000],
     [5, "ROHAN", "PS", 50000],
@@ -30,7 +30,7 @@ echo "</table>";
 
 $emp = [
     ["id" => 1, "name" => "MUNEEB HASSAN", "designation" => "MANAGER", "salary" => 5000000],
-    ["id" => 2, "name" =>  "MALAIKAH MUNEEB", "designation" => "v.MANAGER", "salary" => 200000],
+    ["id" => 2, "name" =>  "MUNEEB", "designation" => "v.MANAGER", "salary" => 200000],
     ["id" => 3, "name" => "MARIA HASSAN", "designation" => "ASSISTANT", "salary" => 250000],
     ["id" => 4, "name" => "AYSHA", "designation" => "COMPUTER OPERATOR", "salary" => 400000]
 
