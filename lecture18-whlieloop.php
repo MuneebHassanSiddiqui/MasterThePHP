@@ -15,7 +15,7 @@ $s = 100;
 echo "<h2>EVEN NUMBER</h2>";
 echo "<ul>";
 while ($s >= 0) {
-    echo " <li>  $s  ) MALAIKAH MUNIB <br></li> ";
+    echo " <li>  $s  )MUNIB <br></li> ";
     $s -= 2;
 }
 echo "</ul>";
