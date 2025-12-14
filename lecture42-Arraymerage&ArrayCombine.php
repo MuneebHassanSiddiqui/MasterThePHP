@@ -3,7 +3,7 @@
 #index array
 #**************************ARRAY MERGE*****************************
 echo "<h1>ARRAY MERGE</h1>";
-$name = ["MUNEEB HASSAN", "MALAIKAH", "AYSHA HASSAN",];
+$name = ["MUNEEB HASSAN", "munib", "AYSHA HASSAN",];
 
 $name1 = ["MARIA HASSAN", "ROHAN HASSAN"];
 
@@ -18,7 +18,7 @@ echo "</pre>";
 #accosiated array
 $cars = [012 => "MEHRAN", 032 => "CAROLLA", "VITZ" => 045];
 
-$person = array("MUNIB" => 20, "MALAIKAH" => 19, "AYSHA" => 13);
+$person = array("MUNIB" => 20, "munib" => 19, "AYSHA" => 13);
 
 $merge = array_merge($cars, $person);
 // $merge = $cars + $person;// THIS IS WORK ONLY ACCOSIATED ARRAY
@@ -58,7 +58,7 @@ echo "</pre>";
 #********************ARRAY COMBINE FUNCTION*******************************
 
 echo "<h1>ARRAY COMBINE</h1>";
-$st = ["MUNEEB HASSAN", "MALAIKAH MUNEEB", "AYSHA HASSAN", "MARIA HASSAN", "ROHAN HASSAN"];
+$st = ["MUNEEB HASSAN", " MUNEEB", "AYSHA HASSAN", "MARIA HASSAN", "ROHAN HASSAN"];
 $rollno = ["47", "86", "21", "12", "19"];
 
 
