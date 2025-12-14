@@ -3,7 +3,7 @@
 echo"<h1>ECHO & PRINT STATEMENT</h1>";
 #PHP ECHO STATEMENT 
 echo "MUNIB HASSAN .<br>";
-echo "MALAIKAH MUNIB", "MARIA HASSAN", "ROHAN HASSAN .<br>";# it can be ability to print multiple value at the same time 
+echo " MUNIB", "MARIA HASSAN", "ROHAN HASSAN .<br>";# it can be ability to print multiple value at the same time 
 echo 98237943 . "<br>";
 echo "<b>MUNIB HASSAN</b><br>";
 echo ('MUNEEB HASSAN' . "<br>");
