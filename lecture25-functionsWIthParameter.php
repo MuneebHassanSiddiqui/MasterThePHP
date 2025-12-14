@@ -26,6 +26,6 @@ echo "</ul>";
 
 
 hello("MUNEEB", "HASSAN");#=>this MUNEEB & HASSAN is argument
-hello("MALAIKAH", "MUNEEB");
+hello("M", "MUNEEB");
 hello("AYSHA", "HASSAN");
 hello("YOUSUF", "NAVEED");
